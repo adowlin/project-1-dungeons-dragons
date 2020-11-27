@@ -35,7 +35,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
     
 - Colour Scheme
 
-    ![colour-palette](/readme-assets/color-palette.png)
+    <img src="/readme-assets/color-palette.png" alt="color palette" style="width:400px;height:300px;">
 
     - Colour palette was generated using [coolors.co](https://coolors.co/). I chose this palette as it offers nice contrasts, and the colours fit with the theme of the website.
 
