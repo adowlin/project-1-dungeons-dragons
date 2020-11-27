@@ -18,12 +18,12 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 ### User Stories
     
 - As a first-time visitor I want to:
-        
-        1. Find information about how the online community works.
-        2. Find out times of group meetups.
-        3. Learn the basics of how to play "Dungeons & Dragons". 
-        4. Quickly and easily sign up to the community.
-        5. Find out how to get in contact with the site owners with any questions.
+    
+    1. Find information about how the online community works.
+    2. Find out times of group meetups.
+    3. Learn the basics of how to play "Dungeons & Dragons". 
+    4. Quickly and easily sign up to the community.
+    5. Find out how to get in contact with the site owners with any questions.
 
 - As a returning visitor, I want to:
     
