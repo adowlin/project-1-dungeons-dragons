@@ -83,7 +83,30 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ## Technologies Used
 
+- Languages Used
+    
+    - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
+- Frameworks, Libraries, & Programs Used
+
+    - [Bootstrap 4.5.3](https://getbootstrap.com/):
+        - Used to help styling aspects of the site, and to help with the responsivness of the site.
+
+    - [Google Fonts](https://fonts.google.com/):
+        - Used to import Montserrat & Source Sans Pro fonts.
+
+    - [Font Awesome](https://fontawesome.com/):
+        - Used to add icons accross the site, to enhance the user experience.
+
+    - [Git](https://git-scm.com/):
+        - Used via the Gitpod terminal to make regular commits, and push to GitHub.
+
+    - [GitHub](https://github.com/):
+        - Used to store the site's code.
+
+    - [GitHub Pages](https://pages.github.com/):
+        - Used to host the deployed site.
 
 ## Testing
 
