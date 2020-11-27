@@ -57,21 +57,35 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ## Features
 
- 
 ### Existing Features
-- 
+
+- Landing page with hero image: allows users to see the purpose of the website, most important information (such as how the community works, and benefits of joining), and call to action button, immediately upon visiting site.
+
+- Navigation header: allows users to easily navigate between site pages, and return to the home page by clicking the logo, without relying on browser navigation buttons.
+
+- Footer: allows users to navigate to Dungeon Squads' social media profiles.
+
+- Sign up form modal: allows users to input their details to join the community, and allows the site owner to collect relevant information about the users who are signing up.
+
+- Meetup Times page: allows users to easily find out what times each group meets, and where the groups are located, in the case where they would like to join a local group.
+
+- How To Play page: allows first-time players to quickly learn about the basics of the "Dungeons & Dragons" game, and allows both first-time and experienced players to download the game rule book.
+
+- Contact page: allows users to send any questions they might have to the site owners.
+
+- Responsive: this website was developed with a "mobile-first" practise, allowing it to be responsive on all device sizes.
+
+- Interactive elements: buttons and icons are desinged to elicit a positive emotional response from users, which will help advance the site owner's goals of increasing community sign ups.
 
 ### Features Left to Implement
-- 
+
+- Download rule book and character sheets via links in Footer
 
 ## Technologies Used
 
 
 
-
 ## Testing
-
-
 
 
 ## Deployment
@@ -83,7 +97,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ### Content
 - Used bootstrap boilerplate from [here](https://github.com/Eventyret/vscode-bcdn)
-- Used README.md template from [here](https://github.com/Code-Institute-Solutions/readme-template)
+- Used README.md templates & inspiriation from [here](https://github.com/Code-Institute-Solutions/readme-template) and from [this sample](https://github.com/Code-Institute-Solutions/SampleREADME)
 
 ### Media
 - 
