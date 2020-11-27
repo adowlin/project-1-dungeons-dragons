@@ -34,9 +34,15 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 ### Design
     
 - Colour Scheme
-- Typography
-- Imagery
 
+    ![colour-palette](/readme-assets/color-palette.png)
+
+    - Colour palette was generated using [coolors.co](https://coolors.co/). I chose this palette as it offers nice contrasts, and the colours fit with the theme of the website.
+
+- Typography
+
+    - Using [Google Fonts](https://fonts.google.com/) chose [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) for the website's main text, and [Montserrat](https://fonts.google.com/specimen/Montserrat) 
+    for the website's headers.
 
 ### Wireframes
 
