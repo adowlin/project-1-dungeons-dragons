@@ -13,7 +13,7 @@ body {
 .callout-container {
     height: 100vh;
 
-    background: url('../images/red-die.jpg') no-repeat bottom right fixed;
+    background: url('../images/red-die.jpg') no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -63,7 +63,7 @@ body {
 
 .navbar--grey .navbar-brand {
     font-weight: 400;
-    font-size: 30px;
+    font-size: 15px;
     font-family: "Montserrat", sans-serif;
 }
 
@@ -88,4 +88,18 @@ body {
 .btn--cta:hover {
     background-color: rgb(217, 4, 41);
     color: rgb(237, 242, 244);
+}
+
+/* Media Queries */
+
+@media (min-width:308px){
+    .navbar--grey .navbar-brand {
+        font-size: 20px;
+    }
+}
+
+@media (min-width:359px){
+    .navbar--grey .navbar-brand {
+        font-size: 25px;
+    }
 }
