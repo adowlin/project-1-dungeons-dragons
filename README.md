@@ -121,6 +121,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 ### Content
 - Used bootstrap boilerplate from [here](https://github.com/Eventyret/vscode-bcdn)
 - Used README.md templates & inspiriation from [here](https://github.com/Code-Institute-Solutions/readme-template) and from [this sample](https://github.com/Code-Institute-Solutions/SampleREADME)
+- Adapted callout section styling from Wiskey Drop site [here](https://github.com/adowlin/bootstrap-intro), creating during Bootstrap intro coursework
 
 ### Media
 - 
