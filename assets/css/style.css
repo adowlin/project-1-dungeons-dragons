@@ -11,7 +11,7 @@ body {
 /* Containers */
 
 .callout-container {
-    height: 100vh;
+    height: 85vh;
 
     background: url('../images/red-die.jpg') no-repeat top center fixed;
     -webkit-background-size: cover;
@@ -26,19 +26,15 @@ body {
     position: relative;
 }
 
-.opaque-overlay {
+ .opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-}
+    background-color: rgba(0, 0, 0, 0.7);
+} 
 
-.content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
-}
 
 /* Navbar */
 
@@ -72,9 +68,22 @@ body {
     font-weight: 300;
 }
 
-
-
 /* Jumbotron */
+
+.jumbotron-header {
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    color: rgb(237, 242, 244);
+    font-weight: 500;
+    padding: 20px;
+}
+
+.jumbotron-sub-header {
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    color: rgb(237, 242, 244);
+    font-weight: 200;
+}
 
 /* Buttons */
 
