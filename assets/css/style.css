@@ -42,4 +42,42 @@ body {
 
 /* Navbar */
 
+.navbar--grey {
+    background-color: rgb(141, 153, 174, 0.75);
+}
+
+.navbar--grey .navbar-toggler {
+    border: 0;
+    color: rgb(43, 45, 66);
+}
+
+.navbar--grey a {
+    color: rgb(43, 45, 66);
+    font-weight: 300;
+}
+
+.navbar--grey li {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.navbar--grey .navbar-brand {
+    font-weight: 400;
+    font-size: 30px;
+}
+
 /* Jumbotron */
+
+/* Buttons */
+
+.btn--cta {
+    background-color: rgb(239, 35, 60);
+    color: rgb(237, 242, 244);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.btn--cta:hover {
+    background-color: rgb(217, 4, 41);
+    color: rgb(237, 242, 244);
+}
