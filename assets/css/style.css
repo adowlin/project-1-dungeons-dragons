@@ -64,6 +64,7 @@ body {
 .navbar--grey .navbar-brand {
     font-weight: 400;
     font-size: 30px;
+    font-family: "Montserrat", sans-serif;
 }
 
 .navbar--grey .active #active--nav {
