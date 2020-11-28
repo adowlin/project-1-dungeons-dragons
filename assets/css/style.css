@@ -51,10 +51,10 @@ body {
     color: rgb(43, 45, 66);
 }
 
-.navbar--grey a {
+ .navbar--grey a {
     color: rgb(43, 45, 66);
     font-weight: 300;
-}
+} 
 
 .navbar--grey li {
     margin: 10px;
@@ -65,6 +65,13 @@ body {
     font-weight: 400;
     font-size: 30px;
 }
+
+.navbar--grey .active #active--nav {
+    color: rgb(237, 242, 244);
+    font-weight: 300;
+}
+
+
 
 /* Jumbotron */
 
