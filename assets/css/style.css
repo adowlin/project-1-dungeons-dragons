@@ -146,6 +146,15 @@ body::-webkit-scrollbar {
     padding-bottom: 20px;
 }
 
+.card .card-body .card-title {
+    font-family: "Montserrat", sans-serif;
+}
+
+.card .card-body .card-text {
+    font-family: "Exo", sans-serif;
+    font-size: 20px;
+}
+
 /* Media Queries */
 
 @media (min-width:308px){
