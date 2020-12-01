@@ -10,6 +10,9 @@ body {
     padding: 0;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+}
 
 /* Containers */
 
