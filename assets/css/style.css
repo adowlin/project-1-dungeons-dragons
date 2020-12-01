@@ -124,6 +124,17 @@ body::-webkit-scrollbar {
     color: rgb(237, 242, 244);
 }
 
+.btn--card {
+    background-color: rgb(239, 35, 60);
+    color: rgb(237, 242, 244);
+    font-size: 15px;
+}
+
+.btn--card:hover {
+    background-color: rgb(217, 4, 41);
+    color: rgb(237, 242, 244);
+}
+
 /* Sign-up-info */
 
 .card-deck { 
