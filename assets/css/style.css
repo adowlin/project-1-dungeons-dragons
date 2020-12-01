@@ -88,7 +88,7 @@ body {
 }
 
 .block-divider {
-    width: 500px;
+    width: 50%;
     height: 2px;
     border: 0;
     background-color: rgb(217, 4, 41, 0.75);
