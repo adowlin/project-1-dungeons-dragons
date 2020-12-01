@@ -10,6 +10,7 @@ body {
     padding: 0;
 }
 
+
 /* Containers */
 
 .callout-container {
@@ -37,6 +38,9 @@ body {
     background-color: rgba(0, 0, 0, 0.7);
 } 
 
+.signup-container {
+    background-color: rgb(141, 153, 174, 0.75);
+}
 
 /* Navbar */
 
@@ -91,7 +95,7 @@ body {
     width: 50%;
     height: 2px;
     border: 0;
-    background-color: rgb(217, 4, 41, 0.75);
+    background-color: rgb(239, 35, 60, 0.75);
     margin-top: 30px;
 }
 
@@ -115,6 +119,20 @@ body {
 .btn--cta:hover {
     background-color: rgb(217, 4, 41);
     color: rgb(237, 242, 244);
+}
+
+/* Sign-up-info */
+
+.card-deck { 
+    margin-top: -40px;
+}
+
+.card-deck .card {
+    margin-bottom: 40px;
+    background-color: rgb(237, 242, 244);
+    color: rgb(43, 45, 66);
+    margin-right: 15px;
+    text-align: center;
 }
 
 /* Media Queries */
