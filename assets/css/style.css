@@ -113,6 +113,7 @@ body::-webkit-scrollbar {
 /* Buttons */
 
 .btn--cta {
+    font-family: "Montserrat", sans-serif;
     background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
     font-weight: 400;
@@ -125,6 +126,7 @@ body::-webkit-scrollbar {
 }
 
 .btn--card {
+    font-family: "Montserrat", sans-serif;
     background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
     font-size: 15px;
