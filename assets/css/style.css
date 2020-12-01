@@ -148,11 +148,13 @@ body::-webkit-scrollbar {
 
 .card .card-body .card-title {
     font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
 }
 
 .card .card-body .card-text {
     font-family: "Exo", sans-serif;
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 /* Media Queries */
