@@ -138,6 +138,14 @@ body::-webkit-scrollbar {
     text-align: center;
 }
 
+.card .card-body i {
+    font-size: 40px;
+    color: rgb(239, 35, 60);
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
 /* Media Queries */
 
 @media (min-width:308px){
