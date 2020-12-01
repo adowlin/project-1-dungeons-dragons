@@ -118,6 +118,7 @@ body::-webkit-scrollbar {
     color: rgb(237, 242, 244);
     font-weight: 400;
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 .btn--cta:hover {
@@ -130,6 +131,7 @@ body::-webkit-scrollbar {
     background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
     font-size: 15px;
+    text-transform: uppercase;
 }
 
 .btn--card:hover {
