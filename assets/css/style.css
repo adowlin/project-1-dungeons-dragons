@@ -175,6 +175,17 @@ body::-webkit-scrollbar {
     text-transform: uppercase;
 }
 
+/* Benefits */
+
+/* Footer */
+
+footer {
+    background-color: rgb(141, 153, 174, 0.75);
+    color: rgb(237, 242, 244);
+    min-height: 120px;
+    margin: 0;
+}
+
 /* Media Queries */
 
 @media (min-width:308px){
