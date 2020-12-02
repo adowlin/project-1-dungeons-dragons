@@ -8,6 +8,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: rgb(141, 153, 174, 0.75);
 }
 
 body::-webkit-scrollbar {
@@ -40,10 +41,6 @@ body::-webkit-scrollbar {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);
 } 
-
-.signup-container {
-    background-color: rgb(141, 153, 174, 0.75);
-}
 
 /* Navbar */
 
