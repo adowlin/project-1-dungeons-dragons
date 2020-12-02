@@ -177,11 +177,57 @@ body::-webkit-scrollbar {
 
 /* Benefits */
 
+.benefits-heading {
+    color: rgb(43, 45, 66);
+    margin-bottom: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10vw;
+}
+
+.benefits-item {
+    padding: 2em 2em 0em 2em;
+    position: relative;
+    color: rgb(43, 45, 66);
+    border-left: 2px solid rgb(239, 35, 60);
+}
+
+.benefits-item h4 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.benefits-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.benefits-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.benefits-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background-color: #fafafa;
+}
+
 .benefits-items {
-    margin-top: 30px;
-    margin-left: 30px;
-    border-left: 3px solid rgb(239, 35, 60);
-    height: 500px;
+    margin-bottom: 30px;
 }
 
 /* Footer */
@@ -208,7 +254,8 @@ footer {
 }
 
 @media (min-width:576px){
-    .jumbotron-header {
+    .jumbotron-header,
+    .benefits-heading {
         font-size: 2.5rem;
     }
 
