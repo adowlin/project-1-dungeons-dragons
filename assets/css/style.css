@@ -85,6 +85,7 @@ body::-webkit-scrollbar {
     color: rgb(237, 242, 244);
     font-weight: 500;
     padding: 20px;
+    font-size: 10vw;
 }
 
 .jumbotron-sub-header {
@@ -92,6 +93,7 @@ body::-webkit-scrollbar {
     text-transform: uppercase;
     color: rgb(237, 242, 244);
     font-weight: 200;
+    font-size: 6vw;
 }
 
 .block-divider {
@@ -108,6 +110,7 @@ body::-webkit-scrollbar {
     font-weight: 400;
     margin: 30px 0;
     text-transform: uppercase;
+    font-size: 5vw;
 }
 
 /* Buttons */
@@ -140,7 +143,7 @@ body::-webkit-scrollbar {
 /* Sign-up-info */
 
 .card-deck { 
-    margin-top: -40px;
+    margin-top: -5vh;
 }
 
 .card-deck .card {
@@ -187,5 +190,19 @@ body::-webkit-scrollbar {
 @media (min-width:359px){
     .navbar--grey .navbar-brand {
         font-size: 25px;
+    }
+}
+
+@media (min-width:576px){
+    .jumbotron-header {
+        font-size: 2.5rem;
+    }
+
+    .jumbotron-sub-header {
+        font-size: 1.75rem;
+    }
+
+    .jumbotron-fluid .lead {
+        font-size: 1.25rem;
     }
 }
