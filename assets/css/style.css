@@ -319,3 +319,20 @@ footer {
     }
 }
 
+@media (min-width: 768px) {
+    .social-links li a i {
+        padding: 1rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .social-links li a i {
+        padding: 1.5rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .social-links li a i {
+        padding: 2rem;
+    }
+}
