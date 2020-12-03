@@ -124,7 +124,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 - Adapted callout section styling from Wiskey Drop site [here](https://github.com/adowlin/bootstrap-intro), created during intro to Bootstrap coursework
 - box-shadow CSS code used on Sign Up Info section cards found [here](https://codepen.io/sdthornton/pen/wBZdXq)
 - Found inspiration for Benefits section content [here](https://www.hercampus.com/school/winona/game-gain-5-benefits-playing-dungeons-and-dragons)
-- Adapted Work History timeline from [coursework project](https://github.com/adowlin/ucd-resume/blob/master/resume.html) for Benefits section
+- Adapted Work History timeline for benefits section & social media links Footer list from [coursework project](https://github.com/adowlin/ucd-resume/blob/master/resume.html)
 
 ### Media
 - 
