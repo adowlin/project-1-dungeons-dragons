@@ -275,6 +275,8 @@ footer {
 }
 
 .social-links li a i {
+    font-size: 4vh;
+    padding: 0 5px;
     color: rgb(239, 35, 60);
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -283,7 +285,7 @@ footer {
 }
 
 .social-links li a i:hover {
-    background-color: rgb(217, 4, 41);
+    color: rgb(217, 4, 41);
 }
 
 /* Media Queries */
@@ -316,3 +318,4 @@ footer {
         font-size: 1.25rem;
     }
 }
+
