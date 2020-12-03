@@ -250,10 +250,10 @@ body::-webkit-scrollbar {
 
 .benefits-footer {
     color: rgb(43, 45, 66);
-    margin-bottom: 50px;
     text-align: center;
     text-transform: uppercase;
     font-size: 10vw;
+    margin-bottom: 20px;
 }
 
 /* Footer */
@@ -281,7 +281,8 @@ footer {
 
 @media (min-width:576px){
     .jumbotron-header,
-    .benefits-heading {
+    .benefits-heading,
+    .benefits-footer {
         font-size: 2.5rem;
     }
 
