@@ -299,6 +299,10 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
+#social-media-list {
+    margin-bottom: 0rem;
+}
+
 .social-links li a i:hover {
     color: rgb(217, 4, 41);
 }
