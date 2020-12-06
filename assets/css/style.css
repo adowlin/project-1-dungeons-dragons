@@ -311,6 +311,15 @@ footer {
 
 .modal-content {
     background-color: rgb(237, 242, 244);
+    color: rgb(43, 45, 66);
+}
+
+.modal-title {
+    text-transform: uppercase;
+}
+
+.modal-content .modal-body {
+    font-size: 1rem;
 }
 
 /* Media Queries */
