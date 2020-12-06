@@ -315,19 +315,19 @@ footer {
 
 /* Media Queries */
 
-@media (min-width:30.8){
+@media (min-width:308px){
     .navbar--grey .navbar-brand {
         font-size: 2rem;
     }
 }
 
-@media (min-width:35.9rem){
+@media (min-width:359px){
     .navbar--grey .navbar-brand {
         font-size: 25px;
     }
 }
 
-@media (min-width:57.6rem){
+@media (min-width:576px){
     .jumbotron-header,
     .benefits-heading,
     .benefits-footer {
@@ -344,25 +344,28 @@ footer {
     }
 }
 
-@media (min-width: 76.8rem) {
+@media (min-width: 768px) {
     .social-links li a i {
         padding: 1rem;
     }
 }
 
-@media (min-width: 99.2rem) {
+@media (min-width: 992px) {
+    .navbar--grey li {
+        line-height: 1.5;
+}
     .social-links li a i {
         padding: 1.5rem;
     }
 }
 
-@media (min-width: 120rem) {
+@media (min-width: 1200px) {
     .social-links li a i {
         padding: 2rem;
     }
 }
 
-@media (min-width: 167.5rem) {
+@media (min-width: 1675px) {
     .callout-container {
         background: url('../images/red-die.jpg') no-repeat center center fixed;
         -webkit-background-size: cover;
