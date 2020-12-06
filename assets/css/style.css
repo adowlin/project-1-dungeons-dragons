@@ -300,6 +300,12 @@ footer {
     color: rgb(217, 4, 41);
 }
 
+/* Modal */
+
+.modal-content {
+    background-color: rgb(237, 242, 244);
+}
+
 /* Media Queries */
 
 @media (min-width:308px){
