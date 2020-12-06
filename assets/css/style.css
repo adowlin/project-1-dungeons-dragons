@@ -150,7 +150,7 @@ body::-webkit-scrollbar {
 .btn--modal {
     font-family: "Montserrat", sans-serif;
     background-color: rgb(239, 35, 60);
-    color: rgb(237, 242, 244);
+    color: rgb(255, 255, 255);
     font-size: 1.5rem;
 }
 
