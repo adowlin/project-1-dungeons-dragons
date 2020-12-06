@@ -145,6 +145,18 @@ body::-webkit-scrollbar {
     color: rgb(237, 242, 244);
 }
 
+.btn--modal {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(239, 35, 60);
+    color: rgb(237, 242, 244);
+    font-size: 15px;
+}
+
+.btn--modal:hover {
+    background-color: rgb(217, 4, 41);
+    color: rgb(237, 242, 244);
+}
+
 /* Signup-info */
 
 .card-deck { 
