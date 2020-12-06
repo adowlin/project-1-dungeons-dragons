@@ -322,6 +322,10 @@ footer {
     font-size: 1rem;
 }
 
+.form-group>.form-control {
+    background-color: rgb(237, 242, 244);
+}
+
 /* Media Queries */
 
 @media (min-width:308px){
