@@ -9,6 +9,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(141, 153, 174, 0.75);
+    font-size: 10px;
 }
 
 body::-webkit-scrollbar {
@@ -67,13 +68,13 @@ body::-webkit-scrollbar {
 } 
 
 .navbar--grey li {
-    margin: 10px;
-    font-size: 20px;
+    margin: 1rem;
+    font-size: 2rem;
 }
 
 .navbar--grey .navbar-brand {
     font-weight: 400;
-    font-size: 15px;
+    font-size: 1.5rem;
     font-family: "Montserrat", sans-serif;
 }
 
@@ -89,7 +90,7 @@ body::-webkit-scrollbar {
     text-transform: uppercase;
     color: rgb(237, 242, 244);
     font-weight: 500;
-    padding: 20px;
+    padding: 2rem;
     font-size: 10vw;
 }
 
@@ -106,14 +107,14 @@ body::-webkit-scrollbar {
     height: 2px;
     border: 0;
     background-color: rgb(239, 35, 60, 0.75);
-    margin-top: 30px;
+    margin-top: 3rem;
 }
 
 .jumbotron-fluid .lead {
     color: rgb(237, 242, 244);
     font-family: "Exo", sans-serif;
     font-weight: 400;
-    margin: 30px 0;
+    margin: 3rem 0;
     text-transform: uppercase;
     font-size: 5vw;
 }
@@ -125,7 +126,7 @@ body::-webkit-scrollbar {
     background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
     font-weight: 400;
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .btn--cta:hover {
@@ -137,7 +138,7 @@ body::-webkit-scrollbar {
     font-family: "Montserrat", sans-serif;
     background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
-    font-size: 15px;
+    font-size: 1.5rem;
 }
 
 .btn--card:hover {
@@ -149,7 +150,7 @@ body::-webkit-scrollbar {
     font-family: "Montserrat", sans-serif;
     background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
-    font-size: 15px;
+    font-size: 1.5rem;
 }
 
 .btn--modal:hover {
@@ -164,7 +165,7 @@ body::-webkit-scrollbar {
 }
 
 .card-deck .card {
-    margin-bottom: 40px;
+    margin-bottom: 4rem;
     background-color: rgb(237, 242, 244);
     color: rgb(43, 45, 66);
     text-align: center;
@@ -173,15 +174,15 @@ body::-webkit-scrollbar {
 }
 
 .card-deck .card:hover {
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 1.4rem 2.8rem rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
 .card .card-body i {
-    font-size: 40px;
+    font-size: 4rem;
     color: rgb(239, 35, 60);
     display: block;
-    padding-top: 5px;
-    padding-bottom: 20px;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
 }
 
 .card .card-body .card-title {
@@ -191,7 +192,7 @@ body::-webkit-scrollbar {
 
 .card .card-body .card-text {
     font-family: "Exo", sans-serif;
-    font-size: 20px;
+    font-size: 2rem;
     text-transform: uppercase;
 }
 
@@ -199,7 +200,7 @@ body::-webkit-scrollbar {
 
 .benefits-heading {
     color: rgb(43, 45, 66);
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
     text-align: center;
     text-transform: uppercase;
     font-size: 10vw;
@@ -237,7 +238,7 @@ body::-webkit-scrollbar {
     margin: 0;
     font-family: "Exo", sans-serif;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .benefits-item:before {
@@ -253,19 +254,19 @@ body::-webkit-scrollbar {
 }
 
 .benefits-item:after {
-    width: 12px;
-    height: 12px;
+    width: 1.2rem;
+    height: 1.2rem;
     display: block;
     top: 2.4em;
     position: absolute;
-    left: -7px;
-    border-radius: 12px;
+    left: -0.7rem;
+    border-radius: 1.2rem;
     content: '';
     background-color: rgb(217, 4, 41);
 }
 
 .benefits-items {
-    margin-bottom: 30px;
+    margin-bottom: 3rem;
 }
 
 .benefits-footer {
@@ -273,7 +274,7 @@ body::-webkit-scrollbar {
     text-align: center;
     text-transform: uppercase;
     font-size: 10vw;
-    margin-bottom: 20px;
+    margin-bottom: 2rem;
 }
 
 /* Footer */
@@ -281,14 +282,14 @@ body::-webkit-scrollbar {
 footer {
     background-color: rgb(141, 153, 174, 0.75);
     color: rgb(237, 242, 244);
-    min-height: 120px;
+    min-height: 12rem;
     margin: 0;
     padding: 0;
 }
 
 .social-links li a i {
     font-size: 4vh;
-    padding: 0 5px;
+    padding: 0 0.5rem;
     color: rgb(239, 35, 60);
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -308,19 +309,19 @@ footer {
 
 /* Media Queries */
 
-@media (min-width:308px){
+@media (min-width:30.8){
     .navbar--grey .navbar-brand {
-        font-size: 20px;
+        font-size: 2rem;
     }
 }
 
-@media (min-width:359px){
+@media (min-width:35.9rem){
     .navbar--grey .navbar-brand {
         font-size: 25px;
     }
 }
 
-@media (min-width:576px){
+@media (min-width:57.6rem){
     .jumbotron-header,
     .benefits-heading,
     .benefits-footer {
@@ -337,25 +338,25 @@ footer {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 76.8rem) {
     .social-links li a i {
         padding: 1rem;
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 99.2rem) {
     .social-links li a i {
         padding: 1.5rem;
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 120rem) {
     .social-links li a i {
         padding: 2rem;
     }
 }
 
-@media (min-width: 1675px) {
+@media (min-width: 167.5rem) {
     .callout-container {
         background: url('../images/red-die.jpg') no-repeat center center fixed;
         -webkit-background-size: cover;
