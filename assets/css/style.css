@@ -338,6 +338,10 @@ footer {
     font-size: 10vw;
 }
 
+#times--card-deck {
+    margin-top: 0;
+}
+
 /* Modal */
 
 .modal-content {
