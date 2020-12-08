@@ -347,6 +347,10 @@ footer {
     padding: 2rem;
 }
 
+.times-footer {
+    margin-bottom: 2rem;
+}
+
 /* Modal */
 
 .modal-content {
