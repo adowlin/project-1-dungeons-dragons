@@ -374,7 +374,8 @@ footer {
 @media (min-width:576px){
     .jumbotron-header,
     .benefits-heading,
-    .benefits-footer {
+    .benefits-footer,
+    .times-heading {
         font-size: 2.5rem;
     }
 
