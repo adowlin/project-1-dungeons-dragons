@@ -327,6 +327,17 @@ footer {
     object-fit: cover;
 }
 
+/* Meetup Times Cards */
+
+.times-heading {
+    color: rgb(43, 45, 66);
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10vw;
+}
+
 /* Modal */
 
 .modal-content {
