@@ -16,6 +16,10 @@ body::-webkit-scrollbar {
     display: none;
 }
 
+#active--nav {
+    color: rgb(237, 242, 244);
+}
+
 /* Containers */
 
 .callout-container {
