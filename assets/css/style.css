@@ -51,6 +51,14 @@ body::-webkit-scrollbar {
     padding: 0;
 }
 
+.meetup-images-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
 /* Navbar */
 
 .navbar--grey {
@@ -305,6 +313,18 @@ footer {
 
 .social-links li a i:hover {
     color: rgb(217, 4, 41);
+}
+
+/* Meetup Carousel */
+
+.carousel {
+    height: 60vh;
+}
+
+.carousel-inner > .carousel-item > img {
+    /* I found this solution to stop images from having a stretched appearance on larger screens here: https://forum.freecodecamp.org/t/my-carousel-images-are-too-big/178311/9 */
+    height: 60vh;
+    object-fit: cover;
 }
 
 /* Modal */
