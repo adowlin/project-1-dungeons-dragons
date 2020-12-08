@@ -342,6 +342,11 @@ footer {
     margin-top: 0;
 }
 
+#times--card-deck > .times-card > .card-body > .card-title,
+#times--card-deck > .times-card > .card-body > .card-text {
+    padding: 2rem;
+}
+
 /* Modal */
 
 .modal-content {
