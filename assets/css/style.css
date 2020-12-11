@@ -63,6 +63,22 @@ body::-webkit-scrollbar {
     padding: 0;
 }
 
+.contact-image-container {
+    height: 85vh;
+
+    background: url('../images/dragon-lights.jpg') no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
 /* Navbar */
 
 .navbar--grey {
