@@ -482,9 +482,15 @@ footer {
 @media (min-width: 992px) {
     .navbar--grey li {
         line-height: 1.5;
-}
+    }
     .social-links li a i {
         padding: 1.5rem;
+    }
+    .contact-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
     }
 }
 
