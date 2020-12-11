@@ -424,10 +424,12 @@ footer {
 
 .modal-title {
     text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
 }
 
 .modal-content .modal-body {
     font-size: 1rem;
+    font-family: "Exo", sans-serif;
 }
 
 .form-group>.form-control {
