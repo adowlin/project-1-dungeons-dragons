@@ -442,7 +442,8 @@ footer {
     }
 
     .jumbotron-sub-header,
-    .benefits-item h3 {
+    .benefits-item h3,
+    .contact-image-lead {
         font-size: 1.75rem;
     }
 
