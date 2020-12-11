@@ -398,6 +398,15 @@ footer {
     font-size: 5vw;
 }
 
+/* Contact Form */
+
+.contact-form {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
 /* Modal */
 
 .modal-content {
