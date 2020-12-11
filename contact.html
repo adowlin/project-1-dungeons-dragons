@@ -124,7 +124,7 @@
 		<div class="modal-dialog modal-dialog-centered" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h5 class="modal-title">Sign Up to Dungeon Squads!</h5>
+					<h5 class="modal-title">Sign Up To Dungeon Squads!</h5>
 					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 	                <span aria-hidden="true">&times;</span>
 	                </button>
@@ -134,14 +134,15 @@
                         <div class="form-group">
 							<input type="text" class="form-control" id="formName" aria-describedby="nameHelp" placeholder="Name">
 						</div>
-						<div class="form-group">
-							<input type="email" class="form-control" id="formEmail" aria-describedby="emailHelp" placeholder="Email Address">
-						</div>
                         <div class="form-group">
 							<input type="text" class="form-control" id="formLocation" aria-describedby="locationHelp" placeholder="Location">
 						</div>
                         <div class="form-group">
 							<input type="text" class="form-control" id="formTime" aria-describedby="timeHelp" placeholder="Preferred Time">
+						</div>
+                        <div class="form-group">
+							<input type="email" class="form-control" id="formEmail" aria-describedby="emailHelp" placeholder="Email Address">
+                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
 						</div>
                         <div class="form-group">
                             <label for="beginner intermediate advanced master">Experience Level</label><br>
@@ -154,7 +155,9 @@
                             <input type="radio" id="master" name="experience" value="master">
                             <label for="master">Dungeon Master</label>
 						</div>
-                        <button type="submit" class="btn btn-success">Start Playing!</button>
+                        <div class="btn--modal-wrapper row">
+                            <button type="submit" class="btn btn--modal col-8 offset-2">Start Playing!</button>
+                        </div>
 					</form>
                 </div>
 			</div>
