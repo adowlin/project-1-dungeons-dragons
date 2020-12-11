@@ -175,14 +175,16 @@ body::-webkit-scrollbar {
     color: rgb(237, 242, 244);
 }
 
-.btn--modal {
+.btn--modal,
+.btn--contact {
     font-family: "Montserrat", sans-serif;
     background-color: rgb(239, 35, 60);
     color: rgb(255, 255, 255);
     font-size: 1.5rem;
 }
 
-.btn--modal:hover {
+.btn--modal:hover,
+.btn--contact:hover {
     background-color: rgb(217, 4, 41);
     color: rgb(237, 242, 244);
 }
