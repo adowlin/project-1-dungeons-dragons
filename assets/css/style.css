@@ -498,6 +498,12 @@ footer {
     .social-links li a i {
         padding: 2rem;
     }
+    .contact-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 35%;
+    }
 }
 
 @media (min-width: 1675px) {
