@@ -371,6 +371,20 @@ footer {
     margin-bottom: 2rem;
 }
 
+/* Contact Image */
+
+.contact-image-header {
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(237, 242, 244);
+    font-weight: 500;
+    padding: 1rem;
+    margin-top: -50vh;
+    font-size: 15vw;
+}
+
 /* Modal */
 
 .modal-content {
