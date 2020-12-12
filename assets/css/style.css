@@ -446,7 +446,7 @@ footer {
 
 @media (min-width:359px){
     .navbar--grey .navbar-brand {
-        font-size: 25px;
+        font-size: 1.5rem;
     }
 }
 
