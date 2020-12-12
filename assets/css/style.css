@@ -440,7 +440,7 @@ footer {
 
 @media (min-width:308px){
     .navbar--grey .navbar-brand {
-        font-size: 2rem;
+        font-size: 1.25rem;
     }
 }
 
