@@ -524,6 +524,10 @@ footer {
         font-size: 1.25rem;
     }
 
+    .overview-wrapper {
+        margin-top: 1.5rem;
+    }
+
     .overview-header {
         font-size: 3.5rem;
     }
