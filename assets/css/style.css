@@ -545,6 +545,10 @@ footer {
     #overview-divider {
         display: none;
     }
+
+    #large-divider {
+        width: 75%;
+    }
 }
 
 @media (min-width: 992px) {
