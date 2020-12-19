@@ -405,6 +405,14 @@ footer {
     font-size: 3vw;
 }
 
+.overview-header {
+    color: rgb(43, 45, 66);
+    margin-bottom: 5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10vw;
+}
+
 /* ------------------------------------------------------------- Contact Image */
 
 .contact-image-header {
