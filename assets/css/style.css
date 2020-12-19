@@ -537,6 +537,10 @@ footer {
     .social-links li a i {
         padding: 1rem;
     }
+
+    #overview-divider {
+        display: none;
+    }
 }
 
 @media (min-width: 992px) {
