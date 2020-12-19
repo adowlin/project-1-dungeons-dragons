@@ -396,6 +396,15 @@ footer {
     margin: 0;
 }
 
+.video-caption {
+    font-family: "Exo", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(43, 45, 66);
+    font-size: 3vw;
+}
+
 /* ------------------------------------------------------------- Contact Image */
 
 .contact-image-header {
