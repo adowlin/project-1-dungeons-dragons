@@ -415,6 +415,15 @@ footer {
     font-size: 10vw;
 }
 
+.overview-text {
+    padding: 1rem;
+    font-family: "Exo", sans-serif;
+    text-transform: uppercase;
+    text-align: justify;
+    color: rgb(43, 45, 66);
+    font-size: 3vw;
+}
+
 /* ------------------------------------------------------------- Contact Image */
 
 .contact-image-header {
