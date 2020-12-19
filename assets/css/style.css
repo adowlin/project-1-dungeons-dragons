@@ -570,6 +570,11 @@ footer {
     .social-links li a i {
         padding: 2rem;
     }
+
+    .overview-text {
+        font-size: 1rem;
+    }
+
     .contact-form {
         padding-top: 30px;
         min-height: 240px;
