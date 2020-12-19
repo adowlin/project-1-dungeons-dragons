@@ -519,7 +519,8 @@ footer {
         font-size: 1.75rem;
     }
 
-    .jumbotron-fluid .lead {
+    .jumbotron-fluid .lead,
+    .overview-text {
         font-size: 1.25rem;
     }
 
