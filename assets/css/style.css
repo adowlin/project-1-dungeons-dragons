@@ -520,6 +520,7 @@ footer {
     }
 
     .jumbotron-fluid .lead,
+    .video-caption,
     .overview-text {
         font-size: 1.25rem;
     }
