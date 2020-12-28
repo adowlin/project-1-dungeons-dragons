@@ -410,7 +410,8 @@ footer {
     margin-top: 1rem;
 }
 
-.overview-header {
+.overview-header,
+.characters-header {
     color: rgb(43, 45, 66);
     text-align: center;
     text-transform: uppercase;
