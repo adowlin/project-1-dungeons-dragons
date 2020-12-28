@@ -552,6 +552,10 @@ footer {
         display: none;
     }
 
+    .btn--rulebook {
+        font-size: 1.1rem;
+    }
+
     #large-divider {
         width: 75%;
     }
