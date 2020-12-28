@@ -149,9 +149,10 @@ The project was deployed to GitHub Pages following the below steps:
 - Adapted Work History timeline for benefits section & social media links Footer list from [coursework project](https://github.com/adowlin/ucd-resume/blob/master/resume.html)
 
 ### Media
+- Site images taken from [Unsplash](https://unsplash.com/)
 - Video in how-to.html found [here](https://dnd.wizards.com/dungeons-and-dragons/what-is-dd)
 - Text content & rulebook PDF taken from [official D&D website](https://dnd.wizards.com/dungeons-and-dragons/what-is-dd), [D&D and Beyond](https://www.dndbeyond.com/essentials/creating-a-character) and [Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons).
 
 ### Acknowledgements
-
-- 
+- My mentor for their kind & helpful feedback & guidance throughout the course of the project's development.
+- My sister for also providing helpful guidance & tips, "sanity checks", and inspiration for the project's topic.
