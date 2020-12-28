@@ -25,7 +25,7 @@ body::-webkit-scrollbar {
 .callout-container {
     height: 85vh;
 
-    background: url('../images/red-die.jpg') no-repeat top center fixed;
+    background: url('../images/red-die.jpg') no-repeat top center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
