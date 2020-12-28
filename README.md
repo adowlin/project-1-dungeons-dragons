@@ -124,7 +124,17 @@ Screenshot:
 
 ## Deployment
 
+The project used the [GitPod](https://www.gitpod.io/) environment during development, and used Git to commit and push to GitHub, using the terminal feature within GitPod.
 
+### GitHub Pages
+The project was deployed to GitHub Pages following the below steps:
+
+1. Log in to GitHub and locate the [Repository](https://github.com/adowlin/project-1-dungeons-dragons)
+2. In the Repository's nav menu, click on the "Settings" button
+3. Scroll down in the Settings page to the "GitHub Pages" section
+4. Click the dropdown labelled "None" under "Source", and select the "Master" branch"
+5. Click the "Save" button, the page will automatically refresh
+6. Scroll down the page again to the "GitHub Pages" section to locate the now published [link](https://adowlin.github.io/project-1-dungeons-dragons/)
 
 
 ## Credits
