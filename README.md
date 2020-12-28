@@ -115,6 +115,11 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
     - Cause: I found that the cause of this issue was the use of `button` html elements.
     - Fix: I changed the `button` elements to `a` elements with `role="button"`.
 
+- When viewing the deployed site on an iOS device, the background image of the hero section in index.html did not display in the correct position. The image appeared to be fixed to the top left corner, meaning just that corner of the image was visible, and the main focus area of the image was not visible.
+Screenshot:
+<img src="/readme-assets/iOS-image-bug.PNG" alt="iOS image bug" style="width:400px;height:812px;">
+    - Cause: I found that this was caused by having `background-attachment:fixed;` set in the CSS code for the image. The `fixed` value for `background-attachment` is not supported by iOS.
+
 ## Deployment
 
 
