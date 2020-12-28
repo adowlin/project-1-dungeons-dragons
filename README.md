@@ -128,7 +128,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ### Media
 - Video in how-to.html found [here](https://dnd.wizards.com/dungeons-and-dragons/what-is-dd)
-- Overview text taken from [official D&D website](https://dnd.wizards.com/dungeons-and-dragons/what-is-dd) and [Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons).
+- Text content & rulebook PDF taken from [official D&D website](https://dnd.wizards.com/dungeons-and-dragons/what-is-dd), [D&D and Beyond](https://www.dndbeyond.com/essentials/creating-a-character) and [Wikipedia](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons).
 
 ### Acknowledgements
 
