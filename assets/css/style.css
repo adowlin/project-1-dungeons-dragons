@@ -74,7 +74,7 @@ body::-webkit-scrollbar {
 .contact-image-container {
     height: 85vh;
 
-    background: url('../images/dragon-lights.jpg') no-repeat top left fixed;
+    background: url('../images/dragon-lights.jpg') no-repeat top left scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
