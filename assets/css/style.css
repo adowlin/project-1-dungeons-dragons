@@ -432,6 +432,14 @@ footer {
     margin: 2rem;
 }
 
+.characters-text>a {
+    color: rgb(239, 35, 60);
+}
+
+.characters-text>a:hover {
+    color: rgb(217, 4, 41);
+}
+
 /* ------------------------------------------------------------- Contact Image */
 
 .contact-image-header {
