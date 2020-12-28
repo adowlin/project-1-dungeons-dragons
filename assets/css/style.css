@@ -547,6 +547,10 @@ footer {
     .characters-header {
         font-size: 3rem;
     }
+
+    .characters-text {
+        font-size: 1rem;
+    }
 }
 
 @media (min-width: 768px) {
