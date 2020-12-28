@@ -418,7 +418,8 @@ footer {
     font-size: 10vw;
 }
 
-.overview-text {
+.overview-text,
+.characters-text {
     padding: 1rem;
     font-family: "Exo", sans-serif;
     text-transform: uppercase;
