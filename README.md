@@ -5,7 +5,7 @@
 Dungeon Squads is a website for an online "Dungeons and Dragons" gaming community. It will bring people together who are looking for a safe, social, gaming space.
 The website was created for my first milestone project as part of the Diploma in Full Stack Software Development course with Code Institute. The website is responsive on all device sizes.
 
-[homepage mockups]
+<img src="/readme-assets/dungeons-mockups.png" alt="color palette" style="width:600px;height:400px;">
  
 ## User Experience (UX)
  
