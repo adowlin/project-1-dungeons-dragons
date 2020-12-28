@@ -120,7 +120,7 @@ Screenshot:
 <img src="/readme-assets/iOS-image-bug.PNG" alt="iOS image bug" style="width:400px;height:812px;">
     
     - Cause: I found that this was caused by having `background-attachment:fixed;` set in the CSS code for the image. The `fixed` value for `background-attachment` is not supported by iOS.
-    - Fix: I changed the `backgound-attachment` attribute on the image to `scroll`, which allows the image to scroll with the rest of the webpage, and allowed the image to be positioned correctly on iOS.
+    - Fix: I changed the `backgound-attachment` attribute on the image to `scroll`, which allows the image to scroll with the rest of the webpage, and allowed the image to be positioned correctly on iOS. Root cause & fix found [here](https://stackoverflow.com/questions/19795830/background-image-not-scaling-properly-on-ios/19798729).
 
 ## Deployment
 
