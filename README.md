@@ -110,6 +110,10 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ## Testing
 
+### Bugs Found
+- In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the button were clicked, nothing happened.
+    - Cause: I found that the cause of this issue was the use of `button` html elements.
+    - Fix: I changed the `button` elements to `a` elements with `role="button"`.
 
 ## Deployment
 
