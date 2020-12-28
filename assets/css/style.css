@@ -542,6 +542,10 @@ footer {
     .overview-text {
         font-size: .80rem;
     }
+
+    .characters-header {
+        font-size: 3rem;
+    }
 }
 
 @media (min-width: 768px) {
