@@ -111,6 +111,40 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ## Testing
 
+### Testing User Stories from User Experience (UX) section
+- As a first-time visitor I want to:
+    
+    1. Find information about how the online community works.
+        - Upon entering the site, users are immediately geeted with lead text which breifly describes the purpose of the site: "Find Dungeons & dragons groups in your local area" & "Sign up for free & start playing!"
+        - On viewing the Hero section, users are prompted to scroll down the page by the visibility of the top portion of the card deck at the bottom of the viewport. Upon scrolling, users are presented with further details about how the community works.
+        - The user has three options; click the "Meetup Times" button to find out infomration about when groups meet, click the "Sign Up" call to action button to provide their details and join the community, or click the "How To Play" button to find out more information about the game, "Dungeons & Dragons".
+    2. Find out times of group meetups.
+        - The user is presented with two intuitive options to navigate to the "Meetup Times" page within the site; in the navbar presented at the top of the page uppon entering the site, and in the "Steps" cards presented when the user scrolls down through the home page.
+        - Upon visiting the "Meetup Times" page on the site, the user is presented with a visually pleasing image carousel. The user is also given an invitation to scroll further down the page, through the use of a section heading and partial visibility of card deck.
+        - Upon scrolling down the page, the card deck provides the user with the relevant information for each "Dungeon Squad" group; location, day, and time.
+        - The user is then invited once again to join the community, through the use of a call-to-action button, labelled "Start Playing!".
+    3. Learn the basics of how to play "Dungeons & Dragons". 
+        - The user is presented with two intuitive options to navigate to the "How To Play" page within the site; in the navbar presented at the top of the page uppon entering the site, and in the "Steps" cards presented when the user scrolls down through the home page.
+        - Upon visiting the "How To Play" page within the site, the user is presented with an option to play an engaging video which explains the "Dungeons & Dragons" game. The user may also choose to read the "What is Dungeons & Dragons?" summary, and the "Character Creation" summaries further down the page.
+        - With both media and text-based options, the user is presented with ample information to choose from, to learn the basics of how to play the "Dungeons & Dragons" game.
+    4. Quickly and easily sign up to the community.
+        - Upon visiting the home page of the site, the user is immediately presented with two intuitive option to sign up to the community; the call-to-action "Sign Up Now!" button underneath the lead text, and the "Sign Up" button within the navbar at the top of the page.
+        - As the user navigates throughout the site, they are continuously presented with opportunities to sign up to the community, with the placement of call-to-action buttons, labelled "Sign Up" or "Start Playing" on each page of the site.
+        - Upon clicking one of the sign-up buttons, the user sees with a neatly presented modal, which includes a short and easy to understand form for the user to submit to join the community.
+    5. Find out how to get in contact with the site owners with any questions.
+        - On each page of the site, the user is presented with two intuitive options to contact the site owners; the "Contact" link within the site's navbar, and the social media icons within the site's footer.
+        - Upon visiting the "Contact" page of the site, the user will see a visually pleasing hero image, overlayed with text which explains how to contact the site owners. The user is directed to "use the form below to send us a message!", which invites them to scroll down the page, where they are presented with an intuitive form, to submit their question to the site owners.
+        - Upon hovering over any of the social media icon links that are presented in the footer, the user is met with a satisfying hover effect. This should ellicit a positive emotional response in the user, to encourage them to follow the link to contact the site owners.
+
+- As a returning visitor, I want to:
+    
+    1. Find information about when other groups meet.
+        - Returning users can quickly navigate the group meetup times page by clicking the "Meetup Times" link contained within the site's navbar.
+    2. Sign up to a new group if my existing group's time no longer suits.
+        - Returning users are able to easily fill out the sign up form from any page within the site, most easily from one of the initial call-to-action buttons that are presented upon visiting the home page.
+    3. Download the rulebook to refresh my knowledge.
+        - Returning users can quickly find a link to download the "Dungeons & Dragons rulebook, by intuitively navigating to the "How To Play" page within the site. When viewing the "How To Play" page, the user is presented with a button to download the rulebook, which opens a PDF download in a new browser tab.
+
 ### Bugs Found
 - In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the button were clicked, nothing happened.
     - Cause: I found that the cause of this issue was the use of `button` html elements.
