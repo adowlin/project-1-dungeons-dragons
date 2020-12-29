@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Exo', sans-serif;
     margin: 0;
     padding: 0;
     background-color: rgb(141, 153, 174, 0.75);
@@ -112,7 +112,7 @@ body::-webkit-scrollbar {
 .navbar--grey .navbar-brand {
     font-weight: 400;
     font-size: 1.5rem;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Exo", sans-serif;
 }
 
 .navbar--grey .active #active--nav {
@@ -245,6 +245,7 @@ body::-webkit-scrollbar {
     text-align: center;
     text-transform: uppercase;
     font-size: 10vw;
+    font-family: "Montserrat", sans-serif;
 }
 
 .benefits-item {
@@ -317,6 +318,7 @@ body::-webkit-scrollbar {
     text-transform: uppercase;
     font-size: 10vw;
     margin-bottom: 2rem;
+    font-family: "Montserrat", sans-serif;
 }
 
 /* ------------------------------------------------------------- Footer */
@@ -368,6 +370,7 @@ footer {
     text-align: center;
     text-transform: uppercase;
     font-size: 10vw;
+    font-family: "Montserrat", sans-serif;
 }
 
 #times--card-deck {
@@ -424,6 +427,7 @@ footer {
     text-align: center;
     text-transform: uppercase;
     font-size: 10vw;
+    font-family: "Montserrat", sans-serif;
 }
 
 .overview-text,
