@@ -41,7 +41,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 - Typography
 
-    - Using [Google Fonts](https://fonts.google.com/) chose [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) for the website's main text, and [Montserrat](https://fonts.google.com/specimen/Montserrat) 
+    - Using [Google Fonts](https://fonts.google.com/), I chose [Exo](https://fonts.google.com/specimen/Exo) for the website's main text, and [Montserrat](https://fonts.google.com/specimen/Montserrat) 
     for the website's headers.
 
 ### Wireframes
