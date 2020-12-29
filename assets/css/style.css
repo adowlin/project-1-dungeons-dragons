@@ -406,6 +406,14 @@ footer {
     font-size: 3vw;
 }
 
+.video-caption>a {
+    color: rgb(239, 35, 60);
+}
+
+.video-caption>a:hover {
+    color: rgb(217, 4, 41);
+}
+
 .overview-wrapper {
     margin-top: 1rem;
 }
