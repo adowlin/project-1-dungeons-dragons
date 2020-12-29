@@ -79,7 +79,8 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ### Features Left to Implement
 
-- Download rule book and character sheets via links in Footer
+- Download rule book and character sheets via links in Footer.
+- Add a map to the Meetup Times page to portray locations of the groups.
 
 ## Technologies Used
 
