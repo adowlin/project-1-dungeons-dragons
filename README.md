@@ -1,8 +1,8 @@
 # Dungeon Squads
 
-[View the deployed site here](https://adowlin.github.io/project-1-dungeons-dragons/)
+[View the deployed site here.](https://adowlin.github.io/project-1-dungeons-dragons/)
 
-Dungeon Squads is a website for an online "Dungeons and Dragons" gaming community. It will bring people together who are looking for a safe, social, gaming space.
+Dungeon Squads is a website for an online "Dungeons & Dragons" gaming community. It will bring people together who are looking for a safe, social, gaming space.
 The website was created for my first milestone project as part of the Diploma in Full Stack Software Development course with Code Institute. The website is responsive on all device sizes.
 
 <img src="/readme-assets/dungeons-mockups.png" alt="color palette" style="width:600px;height:400px;">
@@ -10,10 +10,10 @@ The website was created for my first milestone project as part of the Diploma in
 ## User Experience (UX)
  
 With varying degrees of lockdowns due to the Coronavirus pandemic, it can be hard to make new friends, or keep in touch with existing friends. One could easily find themselves feeling isolated, 
-even with the prevelance of social media.
+even with the prevalence of social media.
 
 This online community will advance the user's goals by providing them with an opportunity to connect with other gamers in a fun, safe environment, and by allowing them to easily learn the 
-basics of the "Dungeons and Dragons" game. It will also advance the site owners goals of growing their community, and spreading knowledge of and enthusiasm for the "Dungeons and Dragons" game.
+basics of the "Dungeons & Dragons" game. It will also advance the site owners goals of growing their community, and spreading knowledge of and enthusiasm for the "Dungeons & Dragons" game.
 
 ### User Stories
     
@@ -59,7 +59,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 ### Existing Features
 
-- Landing page with hero image: allows users to see the purpose of the website, most important information (such as how the community works, and benefits of joining), and call to action button, immediately upon visiting site.
+- Landing page with hero image: allows users to see the purpose of the website, most important information (such as how the community works, and benefits of joining), and call to action button, immediately upon visiting the site.
 
 - Navigation header: allows users to easily navigate between site pages, and return to the home page by clicking the logo, without relying on browser navigation buttons.
 
@@ -73,9 +73,9 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 
 - Contact page: allows users to send any questions they might have to the site owners.
 
-- Responsive: this website was developed with a "mobile-first" practise, allowing it to be responsive on all device sizes.
+- Responsive: this website was developed with a "mobile-first" practice, allowing it to be responsive on all device sizes.
 
-- Interactive elements: buttons and icons are desinged to elicit a positive emotional response from users, which will help advance the site owner's goals of increasing community sign ups.
+- Interactive elements: buttons and icons are designed to elicit a positive emotional response from users, which will help advance the site owner's goals of increasing community sign ups.
 
 ### Features Left to Implement
 
@@ -92,13 +92,13 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 - Frameworks, Libraries, & Programs Used
 
     - [Bootstrap 4.5.3](https://getbootstrap.com/):
-        - Used to help styling aspects of the site, and to help with the responsivness of the site.
+        - Used to help styling aspects of the site, and to help with the responsiveness of the site.
 
     - [Google Fonts](https://fonts.google.com/):
         - Used to import Montserrat & Source Sans Pro fonts.
 
     - [Font Awesome](https://fontawesome.com/):
-        - Used to add icons accross the site, to enhance the user experience.
+        - Used to add icons across the site, to enhance the user experience.
 
     - [Git](https://git-scm.com/):
         - Used via the Gitpod terminal to make regular commits, and push to GitHub.
@@ -115,26 +115,26 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 - As a first-time visitor I want to:
     
     1. Find information about how the online community works.
-        - Upon entering the site, users are immediately geeted with lead text which breifly describes the purpose of the site: "Find Dungeons & dragons groups in your local area" & "Sign up for free & start playing!"
+        - Upon entering the site, users are immediately greeted with lead text which briefly describes the purpose of the site: "Find Dungeons & dragons groups in your local area" & "Sign up for free & start playing!"
         - On viewing the Hero section, users are prompted to scroll down the page by the visibility of the top portion of the card deck at the bottom of the viewport. Upon scrolling, users are presented with further details about how the community works.
-        - The user has three options; click the "Meetup Times" button to find out infomration about when groups meet, click the "Sign Up" call to action button to provide their details and join the community, or click the "How To Play" button to find out more information about the game, "Dungeons & Dragons".
+        - The user has three options; click the "Meetup Times" button to find out information about when groups meet, click the "Sign Up" call to action button to provide their details and join the community, or click the "How To Play" button to find out more information about the game, "Dungeons & Dragons".
     2. Find out times of group meetups.
-        - The user is presented with two intuitive options to navigate to the "Meetup Times" page within the site; in the navbar presented at the top of the page uppon entering the site, and in the "Steps" cards presented when the user scrolls down through the home page.
-        - Upon visiting the "Meetup Times" page on the site, the user is presented with a visually pleasing image carousel. The user is also given an invitation to scroll further down the page, through the use of a section heading and partial visibility of card deck.
+        - The user is presented with two intuitive options to navigate to the "Meetup Times" page within the site; in the navbar presented at the top of the page upon entering the site, and in the "Steps" cards presented when the user scrolls down through the home page.
+        - Upon visiting the "Meetup Times" page on the site, the user is presented with a visually pleasing image carousel. The user is also given an invitation to scroll further down the page, through the use of a section heading and partial visibility of the card deck.
         - Upon scrolling down the page, the card deck provides the user with the relevant information for each "Dungeon Squad" group; location, day, and time.
         - The user is then invited once again to join the community, through the use of a call-to-action button, labelled "Start Playing!".
     3. Learn the basics of how to play "Dungeons & Dragons". 
-        - The user is presented with two intuitive options to navigate to the "How To Play" page within the site; in the navbar presented at the top of the page uppon entering the site, and in the "Steps" cards presented when the user scrolls down through the home page.
+        - The user is presented with two intuitive options to navigate to the "How To Play" page within the site; in the navbar presented at the top of the page upon entering the site, and in the "Steps" cards presented when the user scrolls down through the home page.
         - Upon visiting the "How To Play" page within the site, the user is presented with an option to play an engaging video which explains the "Dungeons & Dragons" game. The user may also choose to read the "What is Dungeons & Dragons?" summary, and the "Character Creation" summaries further down the page.
         - With both media and text-based options, the user is presented with ample information to choose from, to learn the basics of how to play the "Dungeons & Dragons" game.
     4. Quickly and easily sign up to the community.
-        - Upon visiting the home page of the site, the user is immediately presented with two intuitive option to sign up to the community; the call-to-action "Sign Up Now!" button underneath the lead text, and the "Sign Up" button within the navbar at the top of the page.
+        - Upon visiting the home page of the site, the user is immediately presented with two intuitive options to sign up to the community; the call-to-action "Sign Up Now!" button underneath the lead text, and the "Sign Up" button within the navbar at the top of the page.
         - As the user navigates throughout the site, they are continuously presented with opportunities to sign up to the community, with the placement of call-to-action buttons, labelled "Sign Up" or "Start Playing" on each page of the site.
         - Upon clicking one of the sign-up buttons, the user sees with a neatly presented modal, which includes a short and easy to understand form for the user to submit to join the community.
     5. Find out how to get in contact with the site owners with any questions.
         - On each page of the site, the user is presented with two intuitive options to contact the site owners; the "Contact" link within the site's navbar, and the social media icons within the site's footer.
-        - Upon visiting the "Contact" page of the site, the user will see a visually pleasing hero image, overlayed with text which explains how to contact the site owners. The user is directed to "use the form below to send us a message!", which invites them to scroll down the page, where they are presented with an intuitive form, to submit their question to the site owners.
-        - Upon hovering over any of the social media icon links that are presented in the footer, the user is met with a satisfying hover effect. This should ellicit a positive emotional response in the user, to encourage them to follow the link to contact the site owners.
+        - Upon visiting the "Contact" page of the site, the user will see a visually pleasing hero image, overlaid with text which explains how to contact the site owners. The user is directed to "use the form below to send us a message!", which invites them to scroll down the page, where they are presented with an intuitive form, to submit their question to the site owners.
+        - Upon hovering over any of the social media icon links that are presented in the footer, the user is met with a satisfying hover effect. This should elicit a positive emotional response in the user, to encourage them to follow the link to contact the site owners.
 
 - As a returning visitor, I want to:
     
@@ -146,7 +146,7 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
         - Returning users can quickly find a link to download the "Dungeons & Dragons rulebook, by intuitively navigating to the "How To Play" page within the site. When viewing the "How To Play" page, the user is presented with a button to download the rulebook, which opens a PDF download in a new browser tab.
 
 ### Further Testing
-- The website was tested across mutiple browsers:
+- The website was tested across multiple browsers:
     - Google Chrome (Desktop & Mobile)
     - Firefox
     - Microsoft Edge
@@ -169,14 +169,14 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 - On screen sized between 576px & 1200px, the card deck on the "Meetup Times" page is stretched too far vertically.
 
 ### Bugs Found
-- In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the button were clicked, nothing happened.
+- In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the buttons were clicked, nothing happened.
     - Cause: I found that the cause of this issue was the use of `button` html elements.
     - Fix: I changed the `button` elements to `a` elements with `role="button"`.
 
 - When viewing the deployed site on an iOS device, the background image of the hero section in index.html did not display in the correct position. 
 The image appeared to be fixed to the top left corner, meaning just that corner of the image was visible, and the main focus area of the image was not visible.
     - Cause: I found that this was caused by having `background-attachment:fixed;` set in the CSS code for the image. The `fixed` value for `background-attachment` is not supported by iOS.
-    - Fix: I changed the `backgound-attachment` attribute on the image to `scroll`, which allows the image to scroll with the rest of the webpage, and allowed the image to be positioned correctly on iOS. Root cause & fix found [here](https://stackoverflow.com/questions/19795830/background-image-not-scaling-properly-on-ios/19798729).
+    - Fix: I changed the `background-attachment` attribute on the image to `scroll`, which allows the image to scroll with the rest of the webpage, and allowed the image to be positioned correctly on iOS. Root cause & fix found [here](https://stackoverflow.com/questions/19795830/background-image-not-scaling-properly-on-ios/19798729).
     - Screenshot: </br>
 <img src="/readme-assets/ios-image-bug.png" alt="iOS image bug" style="width:400px;height:812px;">
 
@@ -199,9 +199,9 @@ The project was deployed to GitHub Pages following the below steps:
 
 ### Content
 - Used bootstrap boilerplate from [here](https://github.com/Eventyret/vscode-bcdn)
-- Used README.md templates & inspiriation from [here](https://github.com/Code-Institute-Solutions/readme-template) and from [this sample](https://github.com/Code-Institute-Solutions/SampleREADME)
+- Used README.md templates & inspiration from [here](https://github.com/Code-Institute-Solutions/readme-template) and from [this sample](https://github.com/Code-Institute-Solutions/SampleREADME)
 - Created images for responsive design mockups in README.md using [Am I Responsive](http://ami.responsivedesign.is/#)
-- Adapted callout section styling from Wiskey Drop site [here](https://github.com/adowlin/bootstrap-intro), created during intro to Bootstrap coursework
+- Adapted callout section styling from Whiskey Drop site [here](https://github.com/adowlin/bootstrap-intro), created during intro to Bootstrap coursework
 - box-shadow CSS code used on Sign Up Info section cards found [here](https://codepen.io/sdthornton/pen/wBZdXq)
 - Found inspiration for Benefits section content [here](https://www.hercampus.com/school/winona/game-gain-5-benefits-playing-dungeons-and-dragons)
 - Adapted Work History timeline for benefits section & social media links Footer list from [coursework project](https://github.com/adowlin/ucd-resume/blob/master/resume.html)
