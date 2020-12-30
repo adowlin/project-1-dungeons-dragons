@@ -145,6 +145,24 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
     3. Download the rulebook to refresh my knowledge.
         - Returning users can quickly find a link to download the "Dungeons & Dragons rulebook, by intuitively navigating to the "How To Play" page within the site. When viewing the "How To Play" page, the user is presented with a button to download the rulebook, which opens a PDF download in a new browser tab.
 
+### Further Testing
+- The website was tested across mutiple browsers:
+    - Google Chrome (Desktop & Mobile)
+    - Firefox
+    - Microsoft Edge
+    - Safari (Desktop & Mobile)
+    - Samsung Internet
+
+- The website was tested on multiple device types:
+    - Desktop
+    - Laptop
+    - iPhone X
+    - Samsung Galaxy Mobile
+    - Samsung Galaxy Tablet
+
+- Both the website and it's documentation were reviewed by family & friends to help spot missed grammatical errors, missed bugs, and to test the user experience.
+- The website was tested extensively to ensure that all pages and links work correctly.
+
 ### Bugs Found
 - In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the button were clicked, nothing happened.
     - Cause: I found that the cause of this issue was the use of `button` html elements.
