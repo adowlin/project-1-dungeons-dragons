@@ -163,6 +163,10 @@ basics of the "Dungeons and Dragons" game. It will also advance the site owners 
 - Both the website and it's documentation were reviewed by family & friends to help spot missed grammatical errors, missed bugs, and to test the user experience.
 - The website was tested extensively to ensure that all pages and links work correctly.
 
+### Known Bugs
+- On Firefox browser, the image carousel on the "Meetup Times" page does not scale the images correctly.
+- On Desktop Safari, and some mobile browsers, in the "Contact" page, the heading and lead text on top of the hero image are pushed further up & down the screen respectively, causing the text to overflow onto the preceding and succeeding sections of the page.
+
 ### Bugs Found
 - In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the button were clicked, nothing happened.
     - Cause: I found that the cause of this issue was the use of `button` html elements.
