@@ -196,6 +196,22 @@ The project was deployed to GitHub Pages following the below steps:
 5. Click the "Save" button, the page will automatically refresh
 6. Scroll down the page again to the "GitHub Pages" section to locate the now published [link](https://adowlin.github.io/project-1-dungeons-dragons/)
 
+### Local Deployment
+To run this project using Gitpod, you will need to use the Google Chrome browser, and [a GitHub account](https://github.com/). Then, follow the below steps:
+
+1. Install the [Gitpod Chrome Browser Extension](https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeoklaejobgleioelladacbeki?hl=en)
+2. Log in to [Gitpod](https://gitpod.io) using your GitHub account
+3. Head to this project's [GitHub Repository](https://github.com/adowlin/project-1-dungeons-dragons)
+4. Click the green "Gitpod" button that now appears in the top right corner of the repository, which creates a new Gitpod workspace using the code from the GitHub
+
+To run this project using a local IDE, for example VSCode, follow these steps to clone the project:
+
+1. Locate the [project's repository](https://github.com/adowlin/project-1-dungeons-dragons) in GitHub
+2. Above the list of files, click the "Code" button
+3. To clone the repository using HTTPS, copy the link under "HTTPS" in the dropdown box
+4. Open Git Bash and change the current working directory to the location you want the cloned directory to be
+5. Type `git clone`, and paste the URL copied in Step 3, then press entering
+6. Your local clone will be created
 
 ## Credits
 
