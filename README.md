@@ -95,7 +95,7 @@ basics of the "Dungeons & Dragons" game. It will also advance the site owners go
         - Used to help styling aspects of the site, and to help with the responsiveness of the site.
 
     - [Google Fonts](https://fonts.google.com/):
-        - Used to import Montserrat & Source Sans Pro fonts.
+        - Used to import Montserrat & Exo fonts.
 
     - [Font Awesome](https://fontawesome.com/):
         - Used to add icons across the site, to enhance the user experience.
