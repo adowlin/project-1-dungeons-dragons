@@ -160,26 +160,26 @@ body::-webkit-scrollbar {
 
 .btn--cta {
     font-family: "Montserrat", sans-serif;
-    background-color: rgb(239, 35, 60);
+    background-color: rgb(217, 4, 41);
     color: rgb(237, 242, 244);
     font-weight: 400;
     font-size: 1.3rem;
 }
 
 .btn--cta:hover {
-    background-color: rgb(217, 4, 41);
+    background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
 }
 
 .btn--card {
     font-family: "Montserrat", sans-serif;
-    background-color: rgb(239, 35, 60);
+    background-color: rgb(217, 4, 41);
     color: rgb(237, 242, 244);
     font-size: 1rem;
 }
 
 .btn--card:hover {
-    background-color: rgb(217, 4, 41);
+    background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
 }
 
@@ -187,7 +187,7 @@ body::-webkit-scrollbar {
 .btn--rulebook,
 .btn--contact {
     font-family: "Montserrat", sans-serif;
-    background-color: rgb(239, 35, 60);
+    background-color: rgb(217, 4, 41);
     color: rgb(255, 255, 255);
     font-size: 1.5rem;
 }
@@ -195,7 +195,7 @@ body::-webkit-scrollbar {
 .btn--modal:hover,
 .btn--rulebook:hover,
 .btn--contact:hover {
-    background-color: rgb(217, 4, 41);
+    background-color: rgb(239, 35, 60);
     color: rgb(237, 242, 244);
 }
 
