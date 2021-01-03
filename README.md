@@ -170,7 +170,7 @@ The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](ht
 - On Desktop Safari, and some mobile browsers, in the "Contact" page, the heading and lead text on top of the hero image are pushed further up & down the screen respectively, causing the text to overflow onto the preceding and succeeding sections of the page.
 - On screen sized between 576px & 1200px, the card deck on the "Meetup Times" page is stretched too far vertically.
 
-### Bugs Found
+### Bugs Found & Fixed
 - In Bootstrap buttons that were intended to link to other site pages, or link to a PDF download, the buttons originally didn't work as links - when the buttons were clicked, nothing happened.
     - Cause: I found that the cause of this issue was the use of `button` html elements.
     - Fix: I changed the `button` elements to `a` elements with `role="button"`.
