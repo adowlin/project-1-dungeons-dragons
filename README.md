@@ -220,7 +220,7 @@ To run this project using a local IDE, for example VSCode, follow these steps to
 - Used README.md templates & inspiration from [here](https://github.com/Code-Institute-Solutions/readme-template) and from [this sample](https://github.com/Code-Institute-Solutions/SampleREADME)
 - Created images for responsive design mockups in README.md using [Am I Responsive](http://ami.responsivedesign.is/#)
 - Adapted callout section styling from Whiskey Drop site [here](https://github.com/adowlin/bootstrap-intro), created during intro to Bootstrap coursework
-- box-shadow CSS code used on Sign Up Info section cards found [here](https://codepen.io/sdthornton/pen/wBZdXq)
+- box-shadow CSS code used on Sign Up & Meetup Info cards found [here](https://codepen.io/sdthornton/pen/wBZdXq)
 - Found inspiration for Benefits section content [here](https://www.hercampus.com/school/winona/game-gain-5-benefits-playing-dungeons-and-dragons)
 - Adapted Work History timeline for benefits section & social media links Footer list from [coursework project](https://github.com/adowlin/ucd-resume/blob/master/resume.html)
 
