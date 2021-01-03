@@ -111,6 +111,8 @@ basics of the "Dungeons & Dragons" game. It will also advance the site owners go
 
 ## Testing
 
+The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) services were used to validate the code used on every page of the project, to ensure there were no syntax errors in the code.
+
 ### Testing User Stories from User Experience (UX) section
 - As a first-time visitor I want to:
     
